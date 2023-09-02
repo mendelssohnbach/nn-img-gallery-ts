@@ -1,4 +1,12 @@
 {
-  "ignoreWords": ["imgtext", "navbtn"],
-  "words": ["precommit"]
+  "ignoreWords": [
+    "imgtext",
+    "navbtn"
+  ],
+  "words": [
+    "envalid",
+    "PEXELS",
+    "precommit",
+    "tailwindcss"
+  ]
 }
